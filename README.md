@@ -25,6 +25,7 @@ We're eager to share more! We'll be dropping more information regarding the game
 - **Michael**
   - Architecture and Systems
   - More than a decade of experience developing software in the editing, rendering, and production management arenas. Has helped finish some of the largest blockbusters in history (Marvel, Star Wars) and wants to contribute his passion for systems development to the games industry.
+  - [Linkedin](https://www.linkedin.com/in/michael-mccartney-sw/)
 - **Jacob**
   - Development and Design
   - Published two games independently on Steam, [Merchant Isle](https://store.steampowered.com/app/2722600/Merchant_Isle/) and [Stellar Archipelago](https://store.steampowered.com/app/3295680/Stellar_Archipelago/?curator_clanid=44779163). Has a knack for problem solving at any scale and knows how to deliver a product.

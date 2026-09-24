@@ -1,12 +1,17 @@
 Rebel Engine
 ============
 
+![logo](./content/images/logo_v001.png)
+
 Games. Made by humans. With love. 🏴‍☠️
 
 ## About Us
 We are a small team of four that are making their way in the indie development world. We've created a number of silly projects in the past, participating in game jams and self-funded explorations in games technology.
 
 With all of the those experiences and years of development experience combined, we're taking on our first major release slated for release in July of 2027.
+
+<img src="content/images/NoTime/NoTimeConcept01.png" width="300">
+<img src="content/images/NoTime/NoTimeConcept02.png" width="300">
 
 We're eager to share more! We'll be dropping more information regarding the game here. In the meantime you can learn more about the team below.
 

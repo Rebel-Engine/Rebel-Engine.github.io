@@ -30,4 +30,8 @@ We're eager to share more! We'll be dropping more information regarding the game
   - Story and Lorekeeper
   - After years in the visual effects industry mastering the sight of good looking pixels Liam moved into the world of visualization. He's also spent years honing his story telling capabilities. Now, if there's something in a universe we need thought through, there's no better person to ask.
 
+### Past Projects
+Projects from Game Jams and other experimentations that allowed us to hone our skills to the point of starting our own studio.
 
+- Loupe's Doughnuts: https://mccartnm.itch.io/loupes-donuts
+- Sir Dice Kicker: https://connerrust.itch.io/sir-dice-kicker
